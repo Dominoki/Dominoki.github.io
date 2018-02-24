@@ -1,3 +1,3 @@
-// var powitanie = " GIMME MY SPEAR BACK";
+var powitanie = " GIMME MY SPEAR BACK";
 
-// alert("WHY DID YOU KILLED ME ?," + powitanie);
+alert("WHY DID YOU KILLED ME ?," + powitanie);
